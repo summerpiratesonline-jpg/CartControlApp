@@ -67,7 +67,10 @@
       "typedRoutes": true
     },
     "extra": {
-      "router": {}
+      "router": {},
+      "eas": {
+        "projectId": "5cd7874f-1233-407e-bf29-245a74074326"
+      }
     },
     "owner": "yermy"
   }
