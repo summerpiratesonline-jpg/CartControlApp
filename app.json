@@ -18,7 +18,7 @@
       }
     },
     "android": {
-      "package": "com.yeremipayero.cartcontrol",
+      "package": "com.yermy.cartcontrol",
       "adaptiveIcon": {
         "backgroundColor": "#0F172A",
         "foregroundImage": "./assets/android-icon-foreground.png",
@@ -67,11 +67,8 @@
       "typedRoutes": true
     },
     "extra": {
-      "router": {},
-      "eas": {
-        "projectId": "3960abad-45df-456c-8375-be16839a3ffa"
-      }
+      "router": {}
     },
-    "owner": "yeremipayero"
+    "owner": "yermy"
   }
 }
